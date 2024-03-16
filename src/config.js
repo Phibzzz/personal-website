@@ -1,41 +1,29 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'philippe.haag@gmail.com',
 
   socialMedia: [
     {
-      name: 'GitHub',
-      url: 'https://github.com/bchiang7',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
-    },
-    {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/philippehaag',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      name: 'GitHub',
+      url: 'https://github.com/phibzzz',
     },
   ],
 
   navLinks: [
     {
-      name: 'About',
-      url: '/#about',
+      name: 'À propos',
+      url: '/#a-propos',
     },
     {
-      name: 'Experience',
-      url: '/#jobs',
+      name: 'Expertises et services',
+      url: '/#expertises-services',
     },
     {
-      name: 'Work',
-      url: '/#projects',
+      name: 'Projets',
+      url: '/#projets',
     },
     {
       name: 'Contact',
