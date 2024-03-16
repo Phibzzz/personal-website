@@ -128,8 +128,8 @@ const About = () => {
   const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
 
   return (
-    <StyledAboutSection id="about" ref={revealContainer}>
-      <h2 className="numbered-heading">About Me</h2>
+    <StyledAboutSection id="a-propos" ref={revealContainer}>
+      <h2 className="numbered-heading">À propos</h2>
 
       <div className="inner">
         <StyledText>
