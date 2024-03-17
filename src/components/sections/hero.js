@@ -60,7 +60,7 @@ const Hero = () => {
   }, []);
 
   const one = <h1>#DataScientist #IA #Formateur #Consultant #DevWeb</h1>;
-  const two = <h2 className="big-heading">Philippe HAAG.</h2>;
+  const two = <h2 className="big-heading">Philippe Haag.</h2>;
   const three = <h3 className="big-heading">Techweb, IA & Communication.</h3>;
   const four = (
     <>
