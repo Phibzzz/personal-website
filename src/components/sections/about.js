@@ -135,7 +135,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            Explorez de nouveaux horizons avec nos solutions d'intelligence artificielle conçues sur mesure 
+            Explorez de nouveaux horizons avec des solutions d'intelligence artificielle conçues sur mesure 
             pour votre entreprise. L'intégration de l'IA représente bien plus qu'une simple évolution technologique : 
             c'est un avantage concurrentiel décisif. En exploitant les données de manière intelligente, l'IA 
             transforme les défis en opportunités, vous permettant d'anticiper les besoins du marché, d'optimiser 
