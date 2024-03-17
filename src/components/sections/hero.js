@@ -59,29 +59,27 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const one = <h1>#DataScientist #IA #Recherche #Formateur #DevWeb</h1>;
+  const two = <h2 className="big-heading">Philippe HAAG.</h2>;
+  const three = <h3 className="big-heading">Techweb, IA & Communication.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
+      Expert polyvalent en technologies de pointe, je suis un développeur passionné, 
+      un data scientist chevronné, un chercheur en intelligence artificielle et un 
+      consultant en stratégie de communication. Ma capacité à fusionner ces domaines 
+      me permet d'apporter des solutions innovantes et efficaces, conjuguant la puissance 
+      des données et la pertinence des stratégies de communication.
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="mailto:philippe.haag@gmail.com"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Prendre un rendez-vous !
     </a>
   );
 
