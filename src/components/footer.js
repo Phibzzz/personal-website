@@ -105,8 +105,9 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
+        <p>Philippe Haag - Tous droits réservés - 2024</p>
         <a href="https://github.com/bchiang7/v4">
-          <div>Designed &amp; Built by Brittany Chiang</div>
+          <div>Création graphique par Brittany Chiang</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">

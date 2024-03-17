@@ -43,8 +43,8 @@ const NotFoundPage = ({ location }) => {
   const content = (
     <StyledMainContainer className="fillHeight">
       <StyledTitle>404</StyledTitle>
-      <StyledSubtitle>Page Not Found</StyledSubtitle>
-      <StyledHomeButton to="/">Go Home</StyledHomeButton>
+      <StyledSubtitle>Page introuvable</StyledSubtitle>
+      <StyledHomeButton to="/">Retour Accueil</StyledHomeButton>
     </StyledMainContainer>
   );
 
