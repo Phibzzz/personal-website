@@ -1,18 +1,14 @@
 ---
 date: '2021-09-01'
-title: 'Koala Health'
+title: 'App Citoyenne'
 github: ''
-external: 'https://www.koala.health/'
+external: ''
 tech:
-  - Next.js
-  - TypeScript
-  - Redux Toolkit
-  - Stripe
-  - Algolia
-  - Firebase Auth
-  - Formik
-  - Yup
-  - Vercel
-company: 'Upstatement'
-showInProjects: false
+  - PHP
+  - JS
+  - Rest API
+company: 'Mairie de Besançon'
+showInProjects: true
 ---
+
+Développement d'une application web/web mobile qui met en lien les programmes politiques de l'équipe municipale en lien avec les citoyens, en colaboration avec [Mickael Faust](https://fr.linkedin.com/in/mickael-faust-67a55768).
