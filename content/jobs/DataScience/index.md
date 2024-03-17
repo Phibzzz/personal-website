@@ -3,8 +3,8 @@ date: '2017-04-01'
 title: 'Exploitation de données'
 company: 'Data science'
 location: 'France'
-range: '#Machine Learning, #modèles IA supervisés, #Exploitation de données'
-url: 'https://web.northeastern.edu/scout/'
+range: '#Machine Learning, #modèles IA supervisés, #Méthdologie prédictive, #Méthdologie prescriptive'
+url: ''
 ---
 
 - Déploiement d'algorithmes Machine Learning pour systématiser des pipes de collecte de données
