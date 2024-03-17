@@ -57,10 +57,10 @@ const Contact = () => {
     <StyledContactSection id="contact" ref={revealContainer}>
       <h2 className="numbered-heading overline">What’s Next?</h2>
 
-      <h2 className="title">Rendez-vous</h2>
+      <h2 className="title">Présenter votre projet ?</h2>
 
       <p>
-        Je me tiens à votre disposition pour échanger sur votre prochain projet.
+        Cliquez sur le bouton ci-dessous pour me contacter par mail. Je vous répondrais dans les meilleurs délais.
         Qu'il soit question d'intégration IA, d'exploitation de données ou de conseil en communication.
       </p>
 
