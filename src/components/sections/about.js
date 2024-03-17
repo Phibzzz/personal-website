@@ -150,7 +150,7 @@ const About = () => {
             </p>
 
             <p>
-              Avec Mikckael FAUST, nous collaborons pour déployer une R&D proactive qui se caractérise par la publication d'études
+              Avec <a href="https://fr.linkedin.com/in/mickael-faust-67a55768">Mikckael FAUST</a>, nous collaborons pour déployer une R&D proactive qui se caractérise par la publication d'études
               et d'articles open source dont le dernier s'intéresse <a href="https://www.linkedin.com/pulse/benchmark-llm-analyse-lexicom%2525C3%2525A9trique-comparative-des-r%2525C3%2525A9ponses-faust-9rpqe/?trackingId=CVp7YLIyRXKWwggEO8PwzA%3D%3D">
               au benchmark de plusieurs LLM</a> et à la qualité des discours générés.
               Nous accompagnons également les organisations publiques et privés dans leur besoin de développement numérique et d'intégration IA.
