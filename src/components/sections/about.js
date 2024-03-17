@@ -135,38 +135,28 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+            Explorez de nouveaux horizons avec nos solutions d'intelligence artificielle conçues sur mesure 
+            pour votre entreprise. L'intégration de l'IA représente bien plus qu'une simple évolution technologique : 
+            c'est un avantage concurrentiel décisif. En exploitant les données de manière intelligente, l'IA 
+            transforme les défis en opportunités, vous permettant d'anticiper les besoins du marché, d'optimiser 
+            vos processus et de fournir des expériences client exceptionnelles. Avec notre expertise, restez en 
+            tête de la course à l'innovation et surpassez vos concurrents grâce à une approche stratégique et visionnaire de l'IA.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              Passionné par les techwebs, je m'intéresse tout particulièrement au traitement automatique des langues (NLP)
+              et travaille sur le développement de solutions IA et web. Après avoir effectué ma thèse doctorale sur la communication
+              numérique électorale, j'accompagne les entreprises et les collectivités territoriales dans leur développement.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              Avec Mikckael FAUST, nous collaborons pour déployer une R&D proactive qui se caractérise par la publication d'études
+              et d'articles open source dont le dernier s'intéresse <a href="https://www.linkedin.com/pulse/benchmark-llm-analyse-lexicom%2525C3%2525A9trique-comparative-des-r%2525C3%2525A9ponses-faust-9rpqe/?trackingId=CVp7YLIyRXKWwggEO8PwzA%3D%3D">
+              au benchmark de plusieurs LLM</a> et à la qualité des discours générés.
+              Nous accompagnons également les organisations publiques et privés dans leur besoin de développement numérique et d'intégration IA.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
-
-          <ul className="skills-list">
-            {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
-          </ul>
         </StyledText>
 
         <StyledPic>

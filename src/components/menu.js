@@ -266,8 +266,8 @@ const Menu = () => {
               </ol>
             )}
 
-            <a href="/resume.pdf" className="resume-link">
-              Resume
+            <a href="https://www.linkedin.com/pulse/benchmark-llm-analyse-lexicom%2525C3%2525A9trique-comparative-des-r%2525C3%2525A9ponses-faust-9rpqe/?trackingId=CVp7YLIyRXKWwggEO8PwzA%3D%3D" className="resume-link">
+              Article à lire
             </a>
           </nav>
         </StyledSidebar>
